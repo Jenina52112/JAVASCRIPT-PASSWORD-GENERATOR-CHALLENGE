@@ -3,7 +3,7 @@
 var lowerC = "abcdefghijklmnopqrstuvwxyz";
 var upperC = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 var numC = "1234567890";
-var specialC = "!@#$%^&*()_-+=";
+var specialC = "!@#$%^&*()_-+=`~{}[]:;<,>.?/";
 var allChar = lowerC.concat(upperC).concat(numC).concat(specialC);
 var generateBtn = document.querySelector("#generate");
 
