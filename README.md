@@ -6,5 +6,5 @@ This project is a password generator.
 
 * After every selection, the placeholder will display the password based on the user's selected criterias.
 
-* The link to deployed application is https://github.com/Jenina52112/JAVASCRIPT-PASSWORD-GENERATOR-CHALLENGE.git
-![alt text](image.png)
+* The link to deployed application is https://jenina52112.github.io/JAVASCRIPT-PASSWORD-GENERATOR-CHALLENGE/
+![alt text](image-1.png)
