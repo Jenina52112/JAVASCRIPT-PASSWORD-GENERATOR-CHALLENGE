@@ -39,7 +39,7 @@ function generatePassword()
     selectedChars += specChars ? specialC : " ";
       if (selectedChars == 0)
       {
-        alert("MUST SELECT AT LEAST ONE TYPE OF CHARACTER!")
+        alert("MUST SELECT AT LEAST ONE TYPE OF CHARACTER!!!")
       };
       
     for(var i = 0; i < userLength; i++)
